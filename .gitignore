@@ -1,0 +1,9 @@
+.venv/
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+*.wav
+*__vid_tmp*
+*__aud_tmp*

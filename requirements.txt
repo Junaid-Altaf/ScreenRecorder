@@ -1,0 +1,6 @@
+mss
+opencv-python
+numpy
+sounddevice
+soundfile
+moviepy
